@@ -19,7 +19,8 @@ int main() {
 	vector<vector<bool>>matAdj = tache_1(n);
 
 	tache_2(matAdj, n);
-
+	
+	return 0;
 }
 
 
